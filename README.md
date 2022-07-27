@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dmitry</h1>
 <h3 align="center">I am Full-stack developer</h3>
 
+- 🖖 Сurrently learning **TypeScript**, **Vue**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/dmitry-kuvaldin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ekaerinarechkina" height="30" width="40" /></a>
@@ -8,7 +10,6 @@
 </p>
 </p>
 
-- 🖖 Сurrently learning **TypeScript**, **Vue**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
