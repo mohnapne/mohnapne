@@ -9,7 +9,7 @@
 </p>
 
 
-<h3 align="left">tech stack:</h3>
+<h3 align="left">Tech stack:</h3>
 <p align="left">
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
