@@ -78,16 +78,6 @@
 ---
 
 <div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=mohnapne&color=6366F1&style=for-the-badge&label=Profile+Views)
-  
-  ✨ **Open to exciting development opportunities** ✨
-
-</div>
-
----
-
-<div align="center">
 
 ### 🎯 **Technology Stack Deep Dive**
 
