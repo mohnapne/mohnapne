@@ -1,17 +1,21 @@
 
+<div align="center">
+  
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Dmitry%20Kuvaldin&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Frontend%20React%20Developer%20🚀&descAlignY=60&descSize=20)
+
+</div>
+
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6366F1&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=💻+React+%7C+TypeScript+%7C+Next.js;🎨+Modern+CSS+%7C+TailwindCSS;🚀+Node.js+%7C+Express+%7C+PostgreSQL)](https://git.io/typing-svg)
+
 </div>
 
 ---
 
 <div align="center">
 
-### 🤝 **Let's Build Something Amazing**
-
-</div>
-
-### 🛠️ **Core Technologies**
-
-</div>
+### 🌟 **About Me**
 
 <div align="center">
 
