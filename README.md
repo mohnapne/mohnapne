@@ -9,22 +9,6 @@
 
 </div>
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitry-kuvaldin/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dkuvaldin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-
-</div>
-
----
-
-
----
-
-<div align="center">
-
 ### 🛠️ **Core Technologies**
 
 </div>
@@ -81,44 +65,6 @@
 
 <div align="center">
 
-### 🎯 **Technology Stack Deep Dive**
-
-</div>
-
-```typescript
-const techStack = {
-  frontend: {
-    languages: ["JavaScript (ES6+)", "TypeScript", "HTML5", "CSS3"],
-    frameworks: ["React 18+", "Next.js 13+", "Redux Toolkit"],
-    styling: ["TailwindCSS", "Styled-Components", "CSS Modules", "Bootstrap"],
-    tools: ["Babel", "Webpack", "Vite", "ESLint", "Prettier"]
-  },
-  
-  backend: {
-    runtime: ["Node.js"],
-    frameworks: ["Express.js", "RESTful APIs"],
-    database: ["PostgreSQL", "SQL"],
-    auth: ["JWT", "OAuth", "Session Management"]
-  },
-  
-  design: {
-    tools: ["Figma", "Adobe Photoshop", "Sketch"],
-    principles: ["Mobile-First", "Responsive Design", "Accessibility", "UX/UI"]
-  },
-  
-  workflow: {
-    versionControl: ["Git", "GitHub"],
-    methodology: ["Agile", "Component-Driven Development"],
-    testing: ["Unit Testing", "Integration Testing"],
-    deployment: ["CI/CD", "Vercel", "Netlify"]
-  }
-};
-```
-
----
-
-<div align="center">
-
 ### 🏗️ **Development Approach**
 
 </div>
@@ -157,7 +103,7 @@ Using cutting-edge tools and practices for efficient development workflow
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitry-kuvaldin/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dkuvaldin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kuvaldin2012@gmail.com)
 
 </div>
 
@@ -170,6 +116,46 @@ Using cutting-edge tools and practices for efficient development workflow
   ✨ **Open to exciting development opportunities** ✨
 
 </div>
+
+---
+
+<div align="center">
+
+### 🎯 **Technology Stack Deep Dive**
+
+</div>
+
+```typescript
+const techStack = {
+  frontend: {
+    languages: ["JavaScript (ES6+)", "TypeScript", "HTML5", "CSS3"],
+    frameworks: ["React 18+", "Next.js 13+", "Redux Toolkit"],
+    styling: ["TailwindCSS", "Styled-Components", "CSS Modules", "Bootstrap"],
+    tools: ["Babel", "Webpack", "Vite", "ESLint", "Prettier"]
+  },
+  
+  backend: {
+    runtime: ["Node.js"],
+    frameworks: ["Express.js", "RESTful APIs"],
+    database: ["PostgreSQL", "SQL"],
+    auth: ["JWT", "OAuth", "Session Management"]
+  },
+  
+  design: {
+    tools: ["Figma", "Adobe Photoshop", "Sketch"],
+    principles: ["Mobile-First", "Responsive Design", "Accessibility", "UX/UI"]
+  },
+  
+  workflow: {
+    versionControl: ["Git", "GitHub"],
+    methodology: ["Agile", "Component-Driven Development"],
+    testing: ["Unit Testing", "Integration Testing"],
+    deployment: ["CI/CD", "Vercel", "Netlify"]
+  }
+};
+```
+
+---
 
 <div align="center">
   
