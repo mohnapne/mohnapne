@@ -13,6 +13,23 @@
 
 <div align="center">
 
+---
+
+<div align="center">
+
+### 🤝 **Let's Connect**
+
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitry-kuvaldin/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dkuvaldin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kuvaldin2012@gmail.com)
+
+</div>
+
+
 #### **Frontend Development**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -56,22 +73,6 @@
 | State Management (Redux) | CSS-in-JS Solutions | Server-Side Rendering |
 | Modern ES6+ JavaScript | Animation & Transitions | Authentication & Security |
 | Performance Optimization | Cross-browser Compatibility | Deployment & DevOps |
-
-</div>
-
----
-
-<div align="center">
-
-### 🤝 **Let's Connect**
-
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitry-kuvaldin/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dkuvaldin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kuvaldin2012@gmail.com)
 
 </div>
 
