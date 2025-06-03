@@ -13,13 +13,11 @@
 
 <div align="center">
 
----
-
-<div align="center">
-
 ### 🤝 **Let's Connect**
 
 </div>
+
+---
 
 <div align="center">
 
