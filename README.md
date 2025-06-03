@@ -65,36 +65,6 @@
 
 <div align="center">
 
-### 🏗️ **Development Approach**
-
-</div>
-
-<div align="center">
-
-#### **🧩 Component Architecture**
-Building reusable, maintainable components with clear separation of concerns
-
-#### **📱 Responsive First**
-Mobile-first approach ensuring perfect experience across all devices
-
-#### **♿ Accessibility Focus**
-Writing inclusive code that works for everyone, following WCAG guidelines
-
-#### **⚡ Performance Optimization**
-Code splitting, lazy loading, and bundle optimization for lightning-fast apps
-
-#### **🎯 Type Safety**
-Leveraging TypeScript for robust, error-free applications
-
-#### **🚀 Modern Tooling**
-Using cutting-edge tools and practices for efficient development workflow
-
-</div>
-
----
-
-<div align="center">
-
 ### 🤝 **Let's Connect**
 
 </div>
