@@ -78,44 +78,6 @@
 ---
 
 <div align="center">
-
-### 🎯 **Technology Stack Deep Dive**
-
-</div>
-
-```typescript
-const techStack = {
-  frontend: {
-    languages: ["JavaScript (ES6+)", "TypeScript", "HTML5", "CSS3"],
-    frameworks: ["React 18+", "Next.js 13+", "Redux Toolkit"],
-    styling: ["TailwindCSS", "Styled-Components", "CSS Modules", "Bootstrap"],
-    tools: ["Babel", "Webpack", "Vite", "ESLint", "Prettier"]
-  },
-  
-  backend: {
-    runtime: ["Node.js"],
-    frameworks: ["Express.js", "RESTful APIs"],
-    database: ["PostgreSQL", "SQL"],
-    auth: ["JWT", "OAuth", "Session Management"]
-  },
-  
-  design: {
-    tools: ["Figma", "Adobe Photoshop", "Sketch"],
-    principles: ["Mobile-First", "Responsive Design", "Accessibility", "UX/UI"]
-  },
-  
-  workflow: {
-    versionControl: ["Git", "GitHub"],
-    methodology: ["Agile", "Component-Driven Development"],
-    testing: ["Unit Testing", "Integration Testing"],
-    deployment: ["CI/CD", "Vercel", "Netlify"]
-  }
-};
-```
-
----
-
-<div align="center">
   
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
