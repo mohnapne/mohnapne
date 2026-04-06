@@ -5,8 +5,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 #### **Frontend Development**
