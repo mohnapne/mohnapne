@@ -1,4 +1,9 @@
 
+<div align="center">
+  
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Dmitry%20Kuvaldin&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Frontend%20React%20Developer%20🚀&descAlignY=60&descSize=20)
+
+</div>
 
 ---
 
@@ -47,13 +52,5 @@
 | State Management (Redux) | CSS-in-JS Solutions | Server-Side Rendering |
 | Modern ES6+ JavaScript | Animation & Transitions | Authentication & Security |
 | Performance Optimization | Cross-browser Compatibility | Deployment & DevOps |
-
-</div>
-
----
-
-<div align="center">
-  
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
 </div>
