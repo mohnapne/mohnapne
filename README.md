@@ -32,23 +32,3 @@
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
 </div>
-
----
-
-<div align="center">
-
-### 💻 **Technical Expertise**
-
-</div>
-
-<div align="center">
-
-| 🚀 **Frontend Mastery** | 🎨 **UI/UX Excellence** | ⚡ **Full-Stack Skills** |
-|:---:|:---:|:---:|
-| React Hooks & Context | Responsive Design | RESTful API Development |
-| TypeScript Integration | Component Libraries | Database Design & Queries |
-| State Management (Redux) | CSS-in-JS Solutions | Server-Side Rendering |
-| Modern ES6+ JavaScript | Animation & Transitions | Authentication & Security |
-| Performance Optimization | Cross-browser Compatibility | Deployment & DevOps |
-
-</div>
