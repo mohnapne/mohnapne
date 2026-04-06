@@ -1,34 +1,3 @@
-
-<div align="center">
-  
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Dmitry%20Kuvaldin&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Frontend%20React%20Developer%20🚀&descAlignY=60&descSize=20)
-
-</div>
-
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6366F1&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=💻+React+%7C+TypeScript+%7C+Next.js;🎨+Modern+CSS+%7C+TailwindCSS;🚀+Node.js+%7C+Express+%7C+PostgreSQL)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-
-### 🤝 **Let's Connect**
-
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitry-kuvaldin/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dkuvaldin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kuvaldin2012@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
 #### **Frontend Development**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
